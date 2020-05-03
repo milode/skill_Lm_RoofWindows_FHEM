@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_RoofWindows_FHEM",
+    "icon": "time",
+    "description": "Oeffnen und schliessen der dachfenster ueber fhem",
+    "slotTypes": [],
+    "intents": []
+}
